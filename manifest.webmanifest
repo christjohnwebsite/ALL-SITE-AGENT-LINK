@@ -1,0 +1,11 @@
+{
+  "name": "ALL SITE AGENT LINK",
+  "short_name": "ALL SITE AGENT",
+  "description": "ALL SITE AGENT LINK agent links",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090a10",
+  "theme_color": "#090a10",
+  "icons": [{"src":"all-site-agent-link-logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}

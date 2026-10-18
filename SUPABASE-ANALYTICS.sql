@@ -1,0 +1,3 @@
+-- Optional only if you did NOT run the complete supabase_schema.sql.
+-- The complete schema already creates analytics_events and its policies.
+-- Prefer running supabase_schema.sql once for a new project.
